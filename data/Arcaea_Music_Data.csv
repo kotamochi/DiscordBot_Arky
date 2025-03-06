@@ -1,0 +1,529 @@
+SortNo,Music_Title,Artist,BPM,Notes,Side,Pack,Version,Difficulty,Level,Const,Image
+1,Sayonara Hatsukoi,REDSHiFT,178,666,Hikari,Arcaea,1,FTR,7,7,./ImageDatas/Sayonara Hatsukoi.jpg.webp
+2,Fairytale,chitose,189,782,Hikari,Arcaea,1,FTR,7,7,./ImageDatas/Fairytale 3.jpg.webp
+3,Vexaria,ak+q,180,734,Hikari,Arcaea,1,FTR,7,7,./ImageDatas/Vexaria.jpg.webp
+4,Rise,Combatplayer,140,788,Hikari,Arcaea,1,FTR,7.7,7.7,./ImageDatas/Rise.jpg.webp
+5,Lucifer,chitose,165,861,Tairitsu,Arcaea,1,FTR,8,8.2,./ImageDatas/Lucifer.jpg.webp
+6,Snow White,Puru,150,978,Hikari,Arcaea,1,FTR,8,8.4,./ImageDatas/Snow White.jpg.webp
+7,Shades of Light in a Transcendent Realm,ak+q,170,1067,Hikari,Arcaea,1,FTR,8,8.3,./ImageDatas/Shades of Light in a Transcendent Realm-fixed.jpg.webp
+8,Babaroque,cYsmix,136,808,Hikari,Arcaea,1,FTR,8,8.5,./ImageDatas/Babaroque.jpg
+9,Lost Civilization,Laur vs CK,210,986,Tairitsu,Arcaea,1,FTR,9,9.2,./ImageDatas/Lost Civilization.jpg.webp
+10,GOODTEK(Arcaea Edit),EBIMAYO,190,968,Hikari,Arcaea,1,FTR,9,9.3,./ImageDatas/GOODTEK (Arcaea Edit).jpg.webp
+11,qualia -ideaesthesia-,nitro,144,1022,Tairitsu,Arcaea,1,FTR,9,9.1,./ImageDatas/qualia -ideaesthesia-.jpg
+12,cry of viyella,Laur,180,791,Tairitsu,Eternal Core,1,FTR,8.7,8.7,./ImageDatas/cry of viyella 2.jpg.webp
+13,I've heard it said,Combatplayer,165,864,Hikari,Eternal Core,1,FTR,8,8.1,./ImageDatas/I've heard it said.jpg.webp
+14,memoryfactory.lzh,Frums,100,672,Hikari,Eternal Core,1,FTR,8.7,8.9,./ImageDatas/memoryfactory.lzh.jpg
+15,Relentless,Akira Complex,174,1015,Tairitsu,Eternal Core,1,FTR,8,8,./ImageDatas/Relentless_2.jpg.webp
+16,Lumia,sky_delta,180,961,Hikari,Eternal Core,1,FTR,8,8.4,./ImageDatas/Lumia.jpg.webp
+17,Essence of Twilight,ak+q,164,1204,Tairitsu,Eternal Core,1,FTR,9,9.1,./ImageDatas/Essence of Twilight.jpg.webp
+18,PRAGMATISM,Laur,174,942,Hikari,Eternal Core,1,FTR,10,10.1,./ImageDatas/PRAGMATISM-R.jpg.webp
+19,Sheriruth,Team Grimoire,185,1151,Tairitsu,Eternal Core,1,FTR,10,10,./ImageDatas/Sheriruth.jpg.webp
+20,Dement ~after legend~,Cosmograph,210,970,Tairitsu,Arcaea,1,FTR,7.7,7.7,./ImageDatas/Dement ~after legend~.jpg.webp
+21,Dandelion,Farhan,169,921,Hikari,Arcaea,1,FTR,8,8.5,./ImageDatas/Dandelion.jpg
+22,Infinity Heaven,Hyun,160,853,Hikari,Arcaea,1,FTR,7.7,7.7,./ImageDatas/Infinity Heaven.jpg.webp
+23,Anökumene,Jun Kuroda,186,851,Tairitsu,Arcaea,1,FTR,9,9.2,./ImageDatas/Anokumene.jpg.webp
+24,Brand new world,U-ske,160,787,Hikari,Arcaea,1,FTR,7.7,7.7,./ImageDatas/Brand new world.jpg.webp
+25,Paradise,Sound Souler,125,729,Hikari,Crimson Solace,1,FTR,7.7,7.7,./ImageDatas/Paradise.jpg.webp
+26,Flashback,ARForest,195,856,Hikari,Crimson Solace,1,FTR,8.7,8.8,./ImageDatas/Flashback.jpg.webp
+27,フライブルクとエンドロウル,アリスシャッハと魔法の楽団,180,930,Hikari,Crimson Solace,1,FTR,9,9,./ImageDatas/Flyburg and Endroll.jpg.webp
+28,Party Vinyl,モリモリあつし,132,800,Hikari,Crimson Solace,1,FTR,9,9.4,./ImageDatas/Party Vinyl.jpg.webp
+29,Nirv lucE,しーけー,260,980,Hikari,Crimson Solace,1,FTR,10,10.2,./ImageDatas/Nirv lucE.jpg.webp
+30,Chronostasis,黒皇帝,196,916,Tairitsu,Arcaea,1.01,FTR,8.7,8.9,./ImageDatas/Chronostasis.jpg.webp
+31,神奈川電脳暗渠,南ゆに,180,1111,Hikari,Arcaea,1.01,FTR,9,9,./ImageDatas/Kanagawa Cyber Culvert.jpg.webp
+32,DataErr0r,Cosmograph,180,955,Tairitsu,Memory Archive,1.01,FTR,9,9.5,./ImageDatas/DataErr0r.jpg.webp
+33,CROSS♰SOUL‪,Hyun feat. Syepias,200,1081,Tairitsu,Memory Archive,1.01,FTR,9,9.4,./ImageDatas/CROSS†SOUL.jpg.webp
+34,Your voice so... feat. Such,PSYQUI,176,1013,Hikari,Memory Archive,1.01,FTR,9,9.4,./ImageDatas/Your voice so... feat. Such.jpg.webp
+35,クロートーと星の観測者,しーけー,230,1021,Hikari,Arcaea,1.01,FTR,7.7,7.7,./ImageDatas/Clotho and the stargazer.jpg.webp
+36,Moonlight of Sand Castle,旅人E,160,645,Hikari,Dynamix,1.01,FTR,7.7,7.7,./ImageDatas/Moonlight of Sand Castle.jpg.webp
+37,REconstruction,Ryazan,180,825,Hikari,Dynamix,1.01,FTR,8,8.4,./ImageDatas/REconstruction.jpg.webp
+38,Evoltex (poppi'n mix),Arch vs n3pu,205,775,Hikari,Dynamix,1.01,FTR,8.7,8.9,./ImageDatas/Evoltex (poppi'n mix).jpg.webp
+39,Oracle,TQ☆,152,963,Tairitsu,Dynamix,1.01,FTR,9,9.3,./ImageDatas/Oracle.jpg.webp
+40,α‪terlβus,Aoi,202,1030,Tairitsu,Dynamix,1.01,FTR,10,10.2,./ImageDatas/αterlβus.jpg.webp
+41,Ignotus,ak+q,170,1225,Tairitsu,Arcaea,1.01,FTR,9,9.3,./ImageDatas/Ignotus.jpg.webp
+42,不浄な白い鳥,MIssionary,184,805,Hikari,Memory Archive,1.01,FTR,9,9.4,./ImageDatas/Impure Bird.jpg.webp
+43,ハルトピア ~Utopia of Spring~,A-zu-ra,185,1061,Hikari,Arcaea,1.01,FTR,8,8.5,./ImageDatas/Harutopia ~Utopia of Spring~.jpg
+44,Blossoms,T2Kazuya,138,655,Hikari,Ambivalent Vision,1.01,FTR,7,7,./ImageDatas/Blossoms.jpg.webp
+45,vsキミ戦争,U-ske (feat. lueur),187,641,Hikari,Ambivalent Vision,1.01,FTR,7.7,7.7,./ImageDatas/Romance Wars.jpg.webp
+46,Moonheart,翡乃イスカ,180,947,Hikari,Ambivalent Vision,1.01,FTR,8,8.4,./ImageDatas/Moonheart.jpg.webp
+47,Genesis,Iris,132,713,Tairitsu,Ambivalent Vision,1.01,FTR,8,8.2,./ImageDatas/Genesis.jpg.webp
+48,Lethaeus,Silentroom,155,900,Tairitsu,Ambivalent Vision,1.01,FTR,9.7,9.7,./ImageDatas/Lethaeus.jpg.webp
+49,Auxesia,ginkiha,183,1000,Hikari,Memory Archive,1.01,FTR,9,9.3,./ImageDatas/Auxesia.jpg.webp
+50,Rabbit In The Black Room,Rabbit House,270,772,Tairitsu,Arcaea,1.01,FTR,8,8.4,./ImageDatas/Rabbit In The Black Room.jpg.webp
+51,Modelista,HiTECH NINJA,165,1010,Hikari,Memory Archive,1.01,FTR,9.7,9.9,./ImageDatas/Modelista.jpg.webp
+52,One Last Drive,REDSHiFT,175,885,Hikari,Arcaea,1.05,FTR,8,8.2,./ImageDatas/One Last Drive.jpg.webp
+53,Dreamin' Attraction!!,翡乃イスカ,205,1129,Hikari,Arcaea,1.05,FTR,9,9.4,./ImageDatas/Dreamin' Attraction!!.jpg.webp
+54,Red and Blue,Silentroom,150,845,Tairitsu,Arcaea,1.05,FTR,9,9.4,./ImageDatas/Red and Blue.jpg.webp
+55,Iconoclast,Yamajet,140,795,Tairitsu,Vicious Labyrinth,1.05,FTR,9,9.1,./ImageDatas/Iconoclast.jpg.webp
+56,SOUNDWiTCH,HATE,170,785,Tairitsu,Vicious Labyrinth,1.05,FTR,9.7,9.8,./ImageDatas/SOUNDWiTCH.jpg.webp
+57,妖艶魔女 -trappola bewitching-,gmtn.,190,1044,Tairitsu,Vicious Labyrinth,1.05,FTR,9.7,9.9,./ImageDatas/trappola bewitching.jpg.webp
+58,conflict,siromaru + cranky,160,1056,Tairitsu,Vicious Labyrinth,1.05,FTR,10,10.2,./ImageDatas/conflict.jpg.webp
+59,Axium Crisis,ak+q,170,1094,Tairitsu,Vicious Labyrinth,1.05,FTR,10,10.6,./ImageDatas/Axium Crisis.jpg.webp
+60,Grievous Lady,Team Grimoire vs Laur,210,1450,Tairitsu,Vicious Labyrinth,1.05,FTR,11,11.1,./ImageDatas/Grievous Lady.jpg.webp
+61,Surrender,void,152,925,Hikari,Memory Archive,1.05,FTR,8.7,8.8,./ImageDatas/Surrender.jpg.webp
+62,夜桜吹雪,A.SAKA,172,931,Hikari,Memory Archive,1.05,FTR,9,9.4,./ImageDatas/Yosakura Fubuki.jpg.webp
+63,Reinvent,Sound Souler,174,852,Hikari,Arcaea,1.05,FTR,8,8.5,./ImageDatas/Reinvent.jpg.webp
+64,Syro,Mitomoro,178,1150,Hikari,Arcaea,1.05,FTR,9,9.3,./ImageDatas/Syro.jpg.webp
+65,Dream goes on,Tiny Minim,174,719,Hikari,Lanota,1.05,FTR,7.7,7.7,./ImageDatas/Dream goes on.jpg
+66,Journey,ARForest,200,997,Hikari,Lanota,1.05,FTR,9,9.1,./ImageDatas/Journey.jpg.webp
+67,Specta,Junk,179,1096,Hikari,Lanota,1.05,FTR,9,9.4,./ImageDatas/Specta.jpg.webp
+68,Quon,Feryquitous,189,991,Hikari,Lanota,1.05,FTR,9,9.6,./ImageDatas/Quon.jpg.webp
+69,cyanine,jioyi,182,1171,Tairitsu,Lanota,1.05,FTR,10,10.6,./ImageDatas/cyanine.jpg.webp
+70,Metallic Punisher,INNOCENT NOISE,165,1238,Tairitsu,Memory Archive,1.05,FTR,10,10.3,./ImageDatas/Metallic Punisher.jpg.webp
+71,Blaster,Massive New Krew,180,1002,Tairitsu,Arcaea,1.05,FTR,9,9.3,./ImageDatas/Blaster.jpg.webp
+72,next to you,uma feat. 橘花音,165,824,Hikari,Binary Enfold,1.06,FTR,8.7,8.8,./ImageDatas/next to you.jpg.webp
+73,Silent Rush,Soleily,158,941,Tairitsu,Binary Enfold,1.06,FTR,8,8.6,./ImageDatas/Silent Rush.jpg.webp
+74,Strongholds,Yooh,105,922,Tairitsu,Binary Enfold,1.06,FTR,9,9.2,./ImageDatas/Strongholds.jpg.webp
+75,Memory Forest,ETIA.,178,978,Hikari,Binary Enfold,1.06,FTR,9.7,9.8,./ImageDatas/Memory Forest.jpg.webp
+76,Singularity,ETIA.,175,1105,Tairitsu,Binary Enfold,1.06,FTR,10,10.5,./ImageDatas/Singularity.jpg.webp
+77,carmine:scythe,かゆき,165,1164,Tairitsu,Memory Archive,1.06,FTR,9,9.6,./ImageDatas/carmine_scythe.jpg.webp
+78,γuarδina,Aoi,202,1120,Hikari,Memory Archive,1.06,FTR,10,10.4,./ImageDatas/guardina.jpg.webp
+79,Cybernecia Catharsis,Tanchiky,184,946,Tairitsu,Arcaea,1.06,FTR,9,9.5,./ImageDatas/Cybernecia Catharsis.jpg.webp
+80,Be There,PSYQUI,164,982,Hikari,Memory Archive,1.06,FTR,9,9.4,./ImageDatas/Be There.jpg.webp
+81,inkar-usi,DIA,102,463,Hikari,Arcaea,1.06,FTR,7.7,7.7,./ImageDatas/inkar-usi.jpg.webp
+82,Call My Name feat. Yukacco,Mameyudoufu,175,921,Hikari,Memory Archive,1.06,FTR,8.7,8.7,./ImageDatas/Call My Name feat. Yukacco.jpg
+83,Suomi,Aire,125,818,Hikari,Arcaea,1.07,FTR,7.7,7.7,./ImageDatas/Suomi.jpg.webp
+84,Bookmaker (2D Version),Kobaryo,175,1124,Tairitsu,Arcaea,1.07,FTR,8,8.3,./ImageDatas/Bookmaker (2D Version).jpg.webp
+85,堕楽の園,gmtn. (witch's slave),168,1061,Tairitsu,Arcaea,1.07,FTR,9,9.5,./ImageDatas/Illegal Paradise.jpg.webp
+86,九番目の迷路,アリスシャッハと魔法の楽団,159,775,Hikari,Luminous Sky,1.07,FTR,8.7,8.9,./ImageDatas/Maze No.9-2.jpg.webp
+87,The Message,Jun Kuroda,202,992,Hikari,Luminous Sky,1.07,FTR,9.7,9.7,./ImageDatas/The Message.jpg.webp
+88,Sulfur,ぺのれり,182,1045,Hikari,Luminous Sky,1.07,FTR,9.7,9.7,./ImageDatas/Sulfur.jpg.webp
+89,Halcyon,xi,191,1227,Hikari,Luminous Sky,1.07,FTR,10,10.5,./ImageDatas/Halcyon.jpg.webp
+90,Ether Strike,Akira Complex,156,1170,Hikari,Luminous Sky,1.07,FTR,10,10.3,./ImageDatas/Ether Strike.jpg.webp
+91,Fracture Ray,Sakuzyo,200,1279,Hikari,Luminous Sky,1.07,FTR,11,11.1,./ImageDatas/Fracture Ray.jpg.webp
+92,Nhelv,Silentroom,174.59,1108,Tairitsu,Arcaea,1.07,FTR,9.7,9.9,./ImageDatas/Nhelv.jpg.webp
+93,dropdead,Frums,50,823,Tairitsu,Memory Archive,1.07,FTR,8.7,9.1,./ImageDatas/dropdead.jpg.webp
+94,Fallensquare,Silentroom,99,703,Tairitsu,Memory Archive,1.07,FTR,9.7,9.7,./ImageDatas/Fallensquare.jpg
+95,白道、多希望羊と信じありく。,Apo11o program ft. 大瀬良あい,192,1058,Tairitsu,Arcaea,1.07,FTR,9,9.6,./ImageDatas/LunarOrbit -believe in the Espebranch road-.jpg.webp
+96,Purgatorium,お月さま交響曲,150,983,Tairitsu,Arcaea,1.07,FTR,8,8.4,./ImageDatas/Purgatorium.jpg.webp
+97,Alexandrite,WAiKURO,146,1040,Tairitsu,Memory Archive,1.07,FTR,10,10,./ImageDatas/Alexandrite.jpg.webp
+98,光,THB,130,684,Tairitsu,Tone Sphere,1.08,FTR,8,8.1,./ImageDatas/Hikari.jpg.webp
+99,Hall of Mirrors,Sta,147,898,Tairitsu,Tone Sphere,1.08,FTR,8,8.2,./ImageDatas/Hall of Mirrors.jpg.webp
+100,STAGER (ALL STAGE CLEAR),Ras,145,1004,Hikari,Tone Sphere,1.08,FTR,9,9.5,./ImageDatas/STAGER (ALL STAGE CLEAR) 03.jpg.webp
+101,Linear Accelerator,THE SHAFT,211.9,905,Hikari,Tone Sphere,1.08,FTR,9.7,9.8,./ImageDatas/Linear Accelerator.jpg.webp
+102,Tiferet,xi vs Sta,140,1086,Tairitsu,Tone Sphere,1.08,FTR,10,10.3,./ImageDatas/Tiferet.jpg.webp
+103,Rugie,Feryquitous feat.Sennzai,191,975,Tairitsu,Arcaea,1.08,FTR,9,9.2,./ImageDatas/Rugie.jpg.webp
+104,Astral tale,Noah,134,884,Tairitsu,Memory Archive,1.08,FTR,9,9.6,./ImageDatas/Astral tale.jpg.webp
+105,Phantasia,Yunosuke,153,952,Hikari,Memory Archive,1.08,FTR,9,9.2,./ImageDatas/Phantasia.jpg.webp
+106,Empire of Winter,Street,175,920,Hikari,Memory Archive,1.08,FTR,9,9.1,./ImageDatas/Empire of Winter.jpg.webp
+107,MERLIN,REDALiCE,180,712,Hikari,Groove Coaster,1.09,FTR,8.7,8.9,./ImageDatas/MERLIN.jpg.webp
+108,DX超性能フルメタル少女,IOSYS TRAX (uno with.ちょこ),160,808,Hikari,Groove Coaster,1.09,FTR,9.7,9.7,./ImageDatas/DX Choseinou Full Metal Shojo.jpg.webp
+109,OMAKENO Stroke,t+pazolite,240,869,Tairitsu,Groove Coaster,1.09,FTR,9,9.5,./ImageDatas/OMAKENO Stroke.jpg.webp
+110,Scarlet Lance,MASAKI (ZUNTATA),185,1130,Hikari,Groove Coaster,1.09,FTR,10,10,./ImageDatas/Scarlet Lance.jpg.webp
+111,ouroboros -twin stroke of the end-,Cranky VS MASAKI,188,1369,Tairitsu,Groove Coaster,1.09,FTR,10.7,10.7,./ImageDatas/ouroboros -twin stroke of the end-.jpg.webp
+112,Libertas,Zekk,160,947,Hikari,Memory Archive,1.09,FTR,9,9.2,./ImageDatas/Libertas.jpg.webp
+113,虚空の夢,ak+q feat.Sennzai,162,972,Hikari,Eternal Core,1.09,FTR,8.7,8.8,./ImageDatas/Solitary Dream_ja.jpg.webp
+114,Grimheart,Puru,170,959,Hikari,Arcaea,2,FTR,8.7,8.7,./ImageDatas/Grimheart.jpg.webp
+115,ReviXy,ikaruga nex,185,1047,Tairitsu,Arcaea,2,FTR,9,9.1,./ImageDatas/ReviXy.jpg.webp
+116,Antithese,Blacklolita,172,877,Tairitsu,Absolute Reason,2,FTR,8.7,8.8,./ImageDatas/Antithese.jpg.webp
+117,Black Territory,DJ Myosuke,200,1195,Tairitsu,Absolute Reason,2,FTR,9.7,9.8,./ImageDatas/Black Territory.jpg.webp
+118,Corruption,3R2,170,1293,Tairitsu,Absolute Reason,2,FTR,9.7,9.8,./ImageDatas/Corruption.jpg.webp
+119,Vicious Heroism,Kobaryo,256,1150,Tairitsu,Absolute Reason,2,FTR,10,10,./ImageDatas/Vicious Heroism.jpg.webp
+120,Cyaegha,USAO,200,1368,Tairitsu,Absolute Reason,2,FTR,10.7,10.7,./ImageDatas/Cyaegha.jpg.webp
+121,VECTOR,WHITEFISTS,200,1299,Tairitsu,Arcaea,2,FTR,9,9.4,./ImageDatas/VECTOЯ.jpg.webp
+122,SUPERNOVA,BACO,150,1123,Tairitsu,Arcaea,2,FTR,9.7,9.7,./ImageDatas/SUPERNOVA.jpg.webp
+123,Dot to Dot feat. shully,Mameyudoufu,174,739,Hikari,Memory Archive,2,FTR,8,8.3,./ImageDatas/Dot to Dot feat. shully.jpg.webp
+124,Garakuta Doll Play,t+pazolite,256,1035,Tairitsu,CHUNITHM,2.01,FTR,10,10.4,./ImageDatas/Garakuta Doll Play.jpg.webp
+125,怒槌,光吉猛修,200,1347,Tairitsu,CHUNITHM,2.01,FTR,10,10.3,./ImageDatas/Ikazuchi.jpg.webp
+126,World Vanquisher,Void (Mournfinale),170,1452,Hikari,CHUNITHM,2.01,FTR,10.7,10.7,./ImageDatas/World Vanquisher.jpg.webp
+127,Dreadnought,Mastermind (xi + nora2r),384,1099,Tairitsu,Memory Archive,2.02,FTR,9.7,9.7,./ImageDatas/Dreadnought.jpg.webp
+128,Vindication,Laur,174,1075,Hikari,Adverse Prelude,2.02,FTR,9,9.6,./ImageDatas/Vindication.jpg.webp
+129,Heavensdoor,LeaF,240,1101,Tairitsu,Adverse Prelude,2.02,FTR,9.7,9.9,./ImageDatas/Heavensdoor.jpg
+130,Ringed Genesis,Edelritter,160,1146,Hikari,Adverse Prelude,2.02,FTR,10.7,10.8,./ImageDatas/Ringed Genesis.jpg.webp
+131,Chelsea,7mai,174,650,Hikari,Sunset Radiance,2.03,FTR,8.7,8.9,./ImageDatas/Chelsea.jpg.webp
+132,AI[UE]OON,MYUKKE.,145,989,Hikari,Sunset Radiance,2.03,FTR,9,9.4,./ImageDatas/AI_UE_OON.jpg.webp
+133,迷える音色は恋の唄,からとPanchii少年 feat.はるの,165,931,Hikari,Sunset Radiance,2.03,FTR,9,9.6,./ImageDatas/A Wandering Melody of Love.jpg.webp
+134,Tie me down gently,溝口ゆうま feat. 大瀬良あい,191,724,Tairitsu,Sunset Radiance,2.03,FTR,8,8.3,./ImageDatas/Tie me down gently.jpg.webp
+135,Valhalla:0,Juggernaut.,200,1173,Tairitsu,Sunset Radiance,2.03,FTR,10,10.2,./ImageDatas/Valhalla_0.jpg.webp
+136,Mirzam,Aoi vs. siqlo,201,1303,Tairitsu,Memory Archive,2.03,FTR,9.7,9.9,./ImageDatas/Mirzam.jpg.webp
+137,Diode,Kolaa,132,709,Hikari,Arcaea,2.04,FTR,8,8.1,./ImageDatas/Diode.jpg.webp
+138,FREEF4LL,YUKIYANAGI,170,1023,Tairitsu,Arcaea,2.04,FTR,8,8.6,./ImageDatas/FREEF4LL.jpg.webp
+139,GLORY：ROAD,uma vs. モリモリあつし,250,1479,Hikari,Crimson Solace,2.04,FTR,10,10.5,./ImageDatas/GLORY_ROAD.jpg.webp
+140,Monochrome Princess,polysha,160,974,Tairitsu,Arcaea,2.04,FTR,9.7,9.7,./ImageDatas/Monochrome Princess.jpg.webp
+141,Heavenly caress,Noah,241,1560,Hikari,Memory Archive,2.04,FTR,9.7,9.8,./ImageDatas/Heavenly caress.jpg.webp
+142,Senkyou,MYTK,90,964,Hikari,Arcaea,2.04,FTR,8.7,8.7,./ImageDatas/Senkyou.jpg.webp
+143,Filament,Puru,170,991,Hikari,Memory Archive,2.04,FTR,9.7,9.7,./ImageDatas/Filament.jpg.webp
+144,Avant Raze,Sampling Masters MEGA,200,1125,Tairitsu,Memory Archive,2.04,FTR,9,9.6,./ImageDatas/Avant Raze.jpg.webp
+145,BATTLE NO.1,TANO*C Sound Team,200,1042,Tairitsu,Memory Archive,2.04,FTR,9.7,9.7,./ImageDatas/BATTLE NO.1.jpg.webp
+146,La'qryma of the Wasteland,DJ Noriken,168,956,Tairitsu,Memory Archive,2.05,FTR,9,9.1,./ImageDatas/La'qryma of the Wasteland.jpg.webp
+147,Einherjar Joker,DJ Genki vs Gram,222,1159,Tairitsu,Memory Archive,2.05,FTR,9.7,9.8,./ImageDatas/Einherjar Joker.jpg.webp
+148,IZANA,t+pazolite vs P*Light,222,976,Hikari,Memory Archive,2.05,FTR,10,10.3,./ImageDatas/IZANA.jpg.webp
+149,最強STRONGER,REDALiCE vs USAO,205,1384,Tairitsu,Memory Archive,2.05,FTR,11,11,./ImageDatas/SAIKYO STRONGER.jpg.webp
+150,world.execute(me);,Mili,130,851,Hikari,Arcaea,2.05,FTR,8,8,./ImageDatas/world-execute-me.jpg.webp
+151,BLRINK,Sta,115,1015,Tairitsu,Adverse Prelude,2.05,FTR,9.7,9.7,./ImageDatas/BLRINK.jpg.webp
+152,Oblivia,Saiph,180,956,Hikari,Arcaea,2.06,FTR,8,8.3,./ImageDatas/Oblivia.jpg.webp
+153,amygdata,nitro,154,1199,Tairitsu,Memory Archive,2.06,FTR,9.7,9.7,./ImageDatas/amygdata.jpg.webp
+154,corps-sans-organes,cybermiso,105,1077,Tairitsu,Ambivalent Vision,2.06,FTR,10,10.6,./ImageDatas/corps-sans-organes.jpg.webp
+155,Equilibrium,Maozon,180,951,Hikari,Black Fate,3,FTR,9,9.4,./ImageDatas/Equilibrium.jpg.webp
+156,Antagonism,Yooh vs. siromaru,160,1142,Tairitsu,Black Fate,3,FTR,9.7,9.9,./ImageDatas/Antagonism.jpg.webp
+157,Lost Desire,Powerless feat. Sennzai,170,1154,Tairitsu,Black Fate,3,FTR,9.7,9.8,./ImageDatas/Lost Desire.jpg.webp
+158,Dantalion,Team Grimoire,186,1476,Tairitsu,Black Fate,3,FTR,10.7,10.8,./ImageDatas/Dantalion.jpg.webp
+159,#1f1e33,かめりあ(EDP),181,1576,Tairitsu,Black Fate,3,FTR,11,11.1,./ImageDatas/#1f1e33-2.jpg.webp
+160,Tempestissimo,t+pazolite,231,1254,Tairitsu,Black Fate,3,FTR,10.7,10.7,./ImageDatas/Tempestissimo.jpg.webp
+161,Arcahv,Feryquitous,191,1065,Hikari,Black Fate,3,FTR,9.7,9.9,./ImageDatas/Arcahv.jpg.webp
+162,Vivid Theory,ak+q,178,885,Hikari,Extend Archive 1,3,FTR,8.7,8.8,./ImageDatas/Vivid Theory.jpg.webp
+163,1F√,WHITEFISTS,130,758,Hikari,Extend Archive 1,3,FTR,8,8.2,./ImageDatas/1F√.jpg.webp
+164,Gekka (Short Version),Nhato,132,817,Hikari,Extend Archive 1,3,FTR,8,8.6,./ImageDatas/Gekka (Short Version).jpg.webp
+165,Give Me a Nightmare,アリスシャッハと魔法の楽団,190,948,Tairitsu,Extend Archive 1,3,FTR,8.7,8.9,./ImageDatas/Give Me a Nightmare.jpg.webp
+166,Black Lotus,wa.,200,965,Tairitsu,Extend Archive 1,3,FTR,9.7,9.7,./ImageDatas/Black Lotus.jpg.webp
+167,Altale,Sakuzyo,90,690,Hikari,Memory Archive,3,FTR,9.7,9.8,./ImageDatas/Altale.jpg.webp
+168,Faint Light (Arcaea Edit),Taishi,133,809,Hikari,Extend Archive 1,3,FTR,9,9.1,./ImageDatas/Faint Light (Arcaea Edit).jpg.webp
+169,Feels So Right feat. Renko,Mysteka,180,947,Hikari,Memory Archive,3,FTR,9,9.3,./ImageDatas/Feels So Right feat. Renko.jpg.webp
+170,Scarlet Cage,Daisuke Kurosawa,166,1195,Tairitsu,Memory Archive,3,FTR,9.7,9.8,./ImageDatas/Scarlet Cage.jpg.webp
+171,Teriqma,owl*tree,128,873,Tairitsu,Memory Archive,3,FTR,9,9.4,./ImageDatas/Teriqma.jpg.webp
+172,MAHOROBA,Zekk,195,828,Hikari,Memory Archive,3,FTR,9,9.5,./ImageDatas/MAHOROBA.jpg.webp
+173,Vexaria,ak+q,180,785,Hikari,Arcaea,3,BYD,9,9,./ImageDatas/Vexaria-b.jpg.webp
+174,Fairytale,chitose,189,932,Hikari,Arcaea,3,BYD,9,9.5,./ImageDatas/Fairytale-b.jpg.webp
+175,Infinity Heaven,HyuN,160,986,Hikari,Arcaea,3,BYD,9,9.6,./ImageDatas/Infinity Heaven-b.jpg.webp
+176,GOODTEK(Arcaea Edit),EBIMAYO,190,1103,Hikari,Arcaea,3,BYD,9.7,9.8,./ImageDatas/GOODTEK (Arcaea Edit)-b.jpg.webp
+177,Tempestissimo,t+pazolite,231,1540,Tairitsu,Black Fate,3,BYD,11,11.7,./ImageDatas/Tempestissimo-b.jpg.webp
+178,BADTEK,EBIMAYO,190,916,Tairitsu,Memory Archive,3.01,FTR,9.7,9.7,./ImageDatas/BADTEK.jpg.webp
+179,Malicious Mischance,s-don,155,1126,Tairitsu,Memory Archive,3.01,FTR,10,10.2,./ImageDatas/Malicious Mischance.jpg.webp
+180,Purgatorium,お月さま交響曲,150,1051,Tairitsu,Arcaea,3.01,BYD,9,9.6,./ImageDatas/Purgatorium-b.jpg.webp
+181,Dement ~after legend~,Cosmograph,210,1040,Tairitsu,Arcaea,3.01,BYD,9.7,9.9,./ImageDatas/Dement ~after legend~-b.jpg.webp
+182,Got hive of Ra,E.G.G,268,794,Hikari,Groove Coaster,3.02,FTR,9.7,9.8,./ImageDatas/Got hive of Ra.jpg.webp
+183,BUCHiGiRE Berserker,REDALiCE vs MASAKI,200,1412,Tairitsu,Memory Archive,3.02,FTR,10.7,10.8,./ImageDatas/BUCHiGiRE Berserker.jpg.webp
+184,Galaxy Friends,Kobaryo,300,1013,Tairitsu,Memory Archive,3.02,FTR,9.7,9.9,./ImageDatas/Galaxy Friends.jpg.webp
+185,CROSS♰OVER,HyuN Feat. LyuU,200,1094,Tairitsu,Extend Archive 1,3.02,FTR,9,9.4,./ImageDatas/CROSS†OVER.jpg.webp
+186,Lapis,SHIKI,146,920,Hikari,Extend Archive 1,3.02,FTR,9,9.4,./ImageDatas/Lapis.jpg.webp
+187,Xeraphinite,BlavkY,146,1048,Hikari,Memory Archive,3.02,FTR,9.7,9.8,./ImageDatas/Xeraphinite.jpg.webp
+188,Xanatos,Tatsh,170,1232,Tairitsu,Memory Archive,3.02,FTR,10,10,./ImageDatas/Xanatos.jpg.webp
+189,Lumia,sky_delta,180,814,Hikari,Arcaea,3.02,BYD,9,9.5,./ImageDatas/Lumia-b.jpg.webp
+190,Alice a la mode,Masanori Akita,134,872,Hikari,Ephemeral Page,3.03,FTR,9,9.2,./ImageDatas/Alice a la mode.jpg.webp
+191,Eccentric Tale,Yamajet,132,732,Tairitsu,Ephemeral Page,3.03,FTR,8,8.4,./ImageDatas/Eccentric Tale.jpg.webp
+192,Alice's Suitcase,Endorfin.,190,999,Hikari,Ephemeral Page,3.03,FTR,9,9.1,./ImageDatas/Alice's Suitcase.jpg.webp
+193,Jump,Rasmus Faber,133,841,Hikari,Ephemeral Page,3.03,FTR,9,9,./ImageDatas/Jump.jpg.webp
+194,Felis,M2U,155,1153,Hikari,Ephemeral Page,3.03,FTR,10,10.4,./ImageDatas/Felis.jpg.webp
+195,Purple Verse,Hommarju,170,1023,Tairitsu,Extend Archive 1,3.03,FTR,9,9.6,./ImageDatas/Purple Verse.jpg.webp
+196,Beside You,江口孝宏,181,703,Hikari,Ephemeral Page,3.03,FTR,8.7,8.7,./ImageDatas/Beside You.jpg.webp
+197,Heart Jackin',Yu_Asahina,160,1112,Hikari,Ephemeral Page,3.03,FTR,9.7,9.7,./ImageDatas/Heart Jackin'.jpg.webp
+198,アリス・リデルに捧ぐ,モリモリあつし,222,998,Tairitsu,Ephemeral Page,3.03,FTR,10,10.3,./ImageDatas/To_ Alice Liddell.jpg.webp
+199,Lazy Addiction,sky_delta,185,1031,Hikari,O.N.G.E.K.I.,3.04,FTR,9,9.6,./ImageDatas/Lazy Addiction.jpg.webp
+200,Dazzle hop,Sampling Masters MEGA,220,1022,Tairitsu,O.N.G.E.K.I.,3.04,FTR,9.7,9.7,./ImageDatas/Dazzle hop.jpg.webp
+201,Viyella's Tears,Laur,218,1403,Tairitsu,O.N.G.E.K.I.,3.04,FTR,10,10.3,./ImageDatas/Viyella's Tears.jpg.webp
+202,ω4,穴山大輔 VS 光吉猛修 VS Kai,192,1393,Hikari,O.N.G.E.K.I.,3.04,FTR,10.7,10.8,./ImageDatas/ω4.jpg.webp
+203,四月の雨,cubesato,79,697,Hikari,maimai,3.04,FTR,8,8.3,./ImageDatas/April showers.jpg.webp
+204,7thSense,削除,150,925,Tairitsu,maimai,3.04,FTR,9.7,9.9,./ImageDatas/7thSense.jpg
+205,Oshama Scramble!,t+pazolite,190,1073,Hikari,maimai,3.04,FTR,10,10,./ImageDatas/Oshama Scramble!.jpg
+206,AMAZING MIGHTYYYY!!!!,WAiKURO,185,1249,Tairitsu,maimai,3.04,FTR,10.7,10.7,./ImageDatas/AMAZING MIGHTYYYY!!!!.jpg
+207,Moonheart,翡乃イスカ,180,1139,Hikari,Ambivalent Vision,3.04,BYD,9.7,9.7,./ImageDatas/Moonheart-b.jpg.webp
+208,Climax,USAO,190,1367,Tairitsu,CHUNITHM,3.05,FTR,10,10.4,./ImageDatas/Climax.jpg.webp
+209,Last Celebration,Laur vs CK,238,1475,Tairitsu,CHUNITHM,3.05,FTR,10,10.4,./ImageDatas/Last Celebration.jpg.webp
+210,業 -善なる神とこの世の悪について-,光吉猛修 VS 穴山大輔,190,1522,Hikari,CHUNITHM,3.05,FTR,10.7,10.9,./ImageDatas/Misdeed -la bonte de Dieu et l'origine du mal-.jpg.webp
+211,AttraqtiA,かめりあ,202,1433,Hikari,Memory Archive,3.05,FTR,10,10.6,./ImageDatas/AttraqtiA.jpg.webp
+212,Glow,SPACELECTRO,165,916,Tairitsu,Extend Archive 1,3.05,FTR,9,9.3,./ImageDatas/Glow.jpg.webp
+213,enchanted love,linear ring,95,759,Hikari,Extend Archive 1,3.05,FTR,8,8.4,./ImageDatas/enchanted love.jpg.webp
+214,竹,立秋 feat. ちょこ,315,1050,Hikari,Extend Archive 1,3.05,FTR,10,10,./ImageDatas/Bamboo.jpg.webp
+215,GIMME DA BLOOD,C-Show,110,1093,Tairitsu,Memory Archive,3.05,FTR,10,10.5,./ImageDatas/GIMME DA BLOOD.jpg.webp
+216,ベースラインやってる？w,かめりあ feat. ななひら,128,861,Hikari,Memory Archive,3.05,FTR,9,9.3,./ImageDatas/Can I Friend You On Bassbook_ Lol.jpg.webp
+217,Life is PIANO,Junk,133,674,Hikari,Extend Archive 1,3.05,FTR,9,9.1,./ImageDatas/Life is PIANO.jpg.webp
+218,Paper Witch,Yu-dachi,130,793,Hikari,Esoteric Order,3.06,FTR,8.7,8.7,./ImageDatas/Paper Witch.jpg.webp
+219,Crystal Gravity,Tanchiky vs. siromaru,178,872,Tairitsu,Esoteric Order,3.06,FTR,9,9.4,./ImageDatas/Crystal Gravity.jpg.webp
+220,Far Away Light,technoplanet feat. はるの & 黒沢ダイスケ,216,1322,Hikari,Esoteric Order,3.06,FTR,9.7,9.8,./ImageDatas/Far Away Light-fixed.jpg.webp
+221,Löschen,BlackY feat. Risa Yuzuki,181,1235,Tairitsu,Esoteric Order,3.06,FTR,10,10.2,./ImageDatas/Löschen.jpg.webp
+222,Aegleseeker,Silentroom vs Frums,234,1568,Hikari,Esoteric Order,3.06,FTR,11,11.2,./ImageDatas/Aegleseeker.jpg.webp
+223,Coastal Highway,Glitch Droids,110,732,Hikari,Esoteric Order,3.06,FTR,9,9.1,./ImageDatas/Coastal Highway.jpg.webp
+224,ΟΔΥΣΣΕΙΑ,Sober Bear,174,1092,Tairitsu,Esoteric Order,3.06,FTR,9,9.5,./ImageDatas/ΟΔΥΣΣΕΙΑ.jpg.webp
+225,Overwhelm,xi,200,1251,Hikari,Esoteric Order,3.06,FTR,10,10.6,./ImageDatas/Overwhelm.jpg.webp
+226,Vandalism,Ashrount,194,1087,Tairitsu,Extend Archive 1,3.06,FTR,9.7,9.7,./ImageDatas/Vandalism.jpg.webp
+227,Turbocharger,A/I,170,979,Hikari,Extend Archive 1,3.06,FTR,9,9,./ImageDatas/Turbocharger.jpg.webp
+228,THE ULTIMACY,aran vs Massive New Krew,200,1304,Tairitsu,Memory Archive,3.06,FTR,9.7,9.8,./ImageDatas/THE ULTIMACY.jpg.webp
+229,烈華RESONANCE,REDALiCE vs Kobaryo,240,1212,Hikari,Memory Archive,3.06,FTR,10.7,10.7,./ImageDatas/REKKA RESONANCE.jpg.webp
+230,next to you,uma feat. 橘花音,165,954,Hikari,Binary Enfold,3.06,BYD,9,9.6,./ImageDatas/next to you-b.jpg.webp
+231,Lost Civilization,Laur vs CK,210,1061,Tairitsu,Arcaea,3.06,BYD,9.7,9.8,./ImageDatas/Lost Civilization-b.jpg.webp
+232,La'qryma of the Wasteland,DJ Noriken,168,1161,Tairitsu,Memory Archive,3.06,BYD,10,10,./ImageDatas/La'qryma of the Wasteland-b.jpg.webp
+233,Bookmaker (2D Version),Kobaryo,175,1287,Tairitsu,Arcaea,3.06,BYD,10,10,./ImageDatas/Bookmaker (2D Version)-b.jpg.webp
+234,Small Cloud Sugar Candy,テヅカ × Aoi feat.桃雛なの,220,919,Hikari,Esoteric Order,3.07,FTR,9,9.3,./ImageDatas/Small Cloud Sugar Candy.jpg.webp
+235,AlterAle,Arik Kau Delay (アラ&かゆき&でり),245,1277,Hikari,Esoteric Order,3.07,FTR,9.7,9.7,./ImageDatas/AlterAle.jpg.webp
+236,光速神授説 - Divine Light of Myriad -,yoho,172,1021,Hikari,Esoteric Order,3.07,FTR,10.7,10.8,./ImageDatas/Divine Light of Myriad.jpg.webp
+237,Seclusion,Laur feat. Sennzai,175,1132,Tairitsu,Esoteric Order,3.07,FTR,10,10.6,./ImageDatas/Seclusion.jpg.webp
+238,狂言綺語,影虎。& ikaruga_nex,155,969,Tairitsu,Extend Archive 1,3.07,FTR,9,9.3,./ImageDatas/False Embellishment.jpg.webp
+239,HIVEMIND,かたぎり,252,1252,Tairitsu,Extend Archive 1,3.07,FTR,10,10,./ImageDatas/HIVEMIND.jpg.webp
+240,Quon,DJ Noriken,170,749,Tairitsu,WACCA,3.08,FTR,8.7,8.7,./ImageDatas/Quon_WACCA.jpg.webp
+241,with U,t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴),155,932,Hikari,WACCA,3.08,FTR,9,9.4,./ImageDatas/with U.jpg.webp
+242,Let you DIVE! (nitro rmx),nitro (lowiro),185,1049,Hikari,WACCA,3.08,FTR,9,9.4,./ImageDatas/Let you DIVE! (nitro rmx).jpg.webp
+243,Mazy Metroplex,aran,155,952,Hikari,WACCA,3.08,FTR,9.7,9.8,./ImageDatas/Mazy Metroplex.jpg.webp
+244,GENOCIDER,DJ Myosuke,390,1483,Tairitsu,WACCA,3.08,FTR,10.7,10.8,./ImageDatas/GENOCIDER.jpg.webp
+245,Sheriruth (Laur Remix),Laur,200,1134,Tairitsu,Memory Archive,3.08,FTR,10,10.5,./ImageDatas/Sheriruth (Laur Remix).jpg
+246,緋纏いの宵,Freezer feat.妃苺,170,922,Tairitsu,Memory Archive,3.08,FTR,9,9.5,./ImageDatas/Evening in Scarlet.jpg.webp
+247,blue comet,ああああ,172,776,Hikari,Extend Archive 1,3.08,FTR,8,8.2,./ImageDatas/blue comet.jpg.webp
+248,ENERGY SYNERGY MATRIX,Tanchiky,160,922,Tairitsu,Extend Archive 1,3.08,FTR,9,9.6,./ImageDatas/ENERGY SYNERGY MATRIX.jpg.webp
+249,G e n g a o z o,-45,153,1353,Tairitsu,Extend Archive 1,3.08,FTR,10,10.1,./ImageDatas/G e n g a o z o.jpg.webp
+250,goldenslaughterer,zts,133,1326,Tairitsu,Memory Archive,3.08,FTR,9.7,9.7,./ImageDatas/goldenslaughterer.jpg.webp
+251,lastendconductor,zts,139,1209,Tairitsu,Memory Archive,3.08,FTR,9,9.4,./ImageDatas/lastendconductor.jpg.webp
+252,Redolent Shape,Sanaas,150,1088,Tairitsu,Memory Archive,3.08,FTR,10,10.2,./ImageDatas/Redolent Shape.jpg.webp
+253,Quon,DJ Noriken,170,1044,Tairitsu,WACCA,3.08,BYD,10,10.2,./ImageDatas/Quon_WACCA.jpg.webp
+254,lastendconductor,zts,139,1339,Tairitsu,Memory Archive,3.08,BYD,10,10.2,./ImageDatas/lastendconductor.jpg.webp
+255,Cosmica,Nhato,110,773,Tairitsu,Binary Enfold,3.09,FTR,8.7,8.8,./ImageDatas/Cosmica.jpg.webp
+256,Ascent,TANUKI,145,1023,Hikari,Binary Enfold,3.09,FTR,9.7,9.8,./ImageDatas/Ascent.jpg.webp
+257,Live Fast Die Young,anubasu-anubasu,153,1292,Hikari,Binary Enfold,3.09,FTR,10,10.6,./ImageDatas/Live Fast Die Young.jpg.webp
+258,彩る夏の恋花火,karatoPαnchii feat. はるの,160,1088,Hikari,Memory Archive,3.09,FTR,9.7,9.9,./ImageDatas/Summer Fireworks of Love.jpg.webp
+259,First Snow,黒魔,88,578,Hikari,Divided Heart,3.1,FTR,7.7,7.7,./ImageDatas/First Snow.jpg.webp
+260,Blue Rose,Cosmograph,295,955,Hikari,Divided Heart,3.1,FTR,9,9.1,./ImageDatas/Blue Rose.jpg.webp
+261,Blocked Library,影虎。,148,850,Tairitsu,Divided Heart,3.1,FTR,9,9.3,./ImageDatas/Blocked Library.jpg.webp
+262,nέο κόsmo,ak+q × Street,190,979,Tairitsu,Divided Heart,3.1,FTR,9.7,9.7,./ImageDatas/nέο κόsmo.jpg.webp
+263,Lightning Screw,HiTECH NINJA,190,1192,Hikari,Divided Heart,3.1,FTR,10,10.5,./ImageDatas/Lightning Screw.jpg.webp
+264,神奈川電脳暗渠,南ゆに,180,1121,Hikari,Arcaea,3.1,BYD,9.7,9.8,./ImageDatas/Kanagawa Cyber Culvert-b.jpg.webp
+265,qualia -ideaesthesia-,nitro,144,1288,Tairitsu,Arcaea,3.1,BYD,9.7,9.8,./ImageDatas/qualia -ideaesthesia--b.jpg.webp
+266,Antithese,Blacklolita,172,968,Tairitsu,Absolute Reason,3.1,BYD,9,9.6,./ImageDatas/Antithese-b.jpg.webp
+267,Heavensdoor,LeaF,240,1534,Tairitsu,Adverse Prelude,3.1,BYD,10.7,10.8,./ImageDatas/Heavensdoor-b.jpg
+268,PRAGMATISM -RESURRECTION-,Laur,174,1502,Hikari,Eternal Core,3.1,BYD,11,11.2,./ImageDatas/PRAGMATISM-b.jpg.webp
+269,Lights of Muse,Ayaytsugu_Otowa,180,580,Hikari,Muse Dash,3.11,FTR,8.7,8.7,./ImageDatas/Lights of Muse.jpg.webp
+270,Final Step!,Lime,180,1056,Tairitsu,Muse Dash,3.11,FTR,9,9.4,./ImageDatas/Final Step!.jpg.webp
+271,秋の陽炎,karatoPannchii feat.はるの,180,1077,Hikari,Muse Dash,3.11,FTR,9.7,9.8,./ImageDatas/Haze of Autumn.jpg.webp
+272,Medusa,HiTECH NINJA,165,931,Tairitsu,Muse Dash,3.11,FTR,10,10.1,./ImageDatas/Medusa.jpg.webp
+273,init(),kamome sano,180,1204,Tairitsu,Memory Archive,3.11,FTR,9.7,9.8,./ImageDatas/init().jpg.webp
+274,Avril -Flicka i krans-,Rigel Theatre,130,851,Hikari,Arcaea,3.12,FTR,8,8.3,./ImageDatas/Ävril -Flicka i krans-.jpg.webp
+275,Sakura Fubuki,Street,175,837,Hikari,Arcaea,3.12,FTR,9,9.4,./ImageDatas/Sakura Fubuki.jpg.webp
+276,NULCTRL,Silentroom,100,715,Tairitsu,Arcaea,3.12,FTR,9,9.5,./ImageDatas/NULCTRL.jpg.webp
+277,INTERNET OVERDOSE,Aiobahn feat. KOTOKO,163,657,Hikari,Memory Archive,3.12,FTR,8,8.4,./ImageDatas/INTERNET OVERDOSE.jpg.webp
+278,Macrocosmic Modulation,JAKAZiD,170,1117,Hikari,Memory Archive,3.12,FTR,9.7,9.8,./ImageDatas/Macrocosmic Modulation.jpg.webp
+279,Kissing Lucifer,ETIA.,170,1183,Tairitsu,Memory Archive,3.12,FTR,10,10.4,./ImageDatas/Kissing Lucifer.jpg.webp
+280,NEO WINGS,SOUND HOLIC feat. Nana Takahashi,168,1328,Tairitsu,Memory Archive,3.12,FTR,10,10.2,./ImageDatas/NEO WINGS.jpg.webp
+281,Aurgelmir,溝口ゆうま feat. 大瀬良あい,230,1100,Tairitsu,Memory Archive,3.12,FTR,10,10.5,./ImageDatas/Aurgelmir.jpg.webp
+282,DDD,はがね,138,653,Hikari,Arcaea,3.12,FTR,8,8.5,./ImageDatas/DDD.jpg.webp
+283,Head BONK ache,saaa ft. MC iwata Bros.,165,1061,Tairitsu,Arcaea,3.12,FTR,9,9.4,./ImageDatas/Head BONK ache.jpg.webp
+284,Prism,bermei.inazawa ft. Chata,109,785,Hikari,Lanota,3.12,FTR,8,8,./ImageDatas/Prism.jpg.webp
+285,Protoflicker,Silentroom,140,1042,Tairitsu,Lanota,3.12,FTR,9.7,9.8,./ImageDatas/Protoflicker.jpg.webp
+286,Stasis,Maozon,180,1521,Hikari,Lanota,3.12,FTR,10.7,10.8,./ImageDatas/Stasis.jpg.webp
+287,ピコPico*とらんすれーしょんっ！,"t+pazolite,ななひら,Cranky,Pico*",185,1049,Tairitsu,Memory Archive,3.12,FTR,9,9.4,./ImageDatas/PICO-Pico-Translation!.jpg.webp
+288,ネコノテ・カリタガール,Ino(chronoize),148,891,Hikari,Arcaea,3.12,FTR,9,9.2,./ImageDatas/Dancin' on A Cat's Paw.jpg.webp
+289,μ,Frums,190,1256,Hikari,Memory Archive,3.12,FTR,9.7,9.7,./ImageDatas/μ.jpg.webp
+290,san skia,ユアミトス,170,1046,Hikari,Arcaea,3.12,FTR,8,8.3,./ImageDatas/san skia.jpg.webp
+291,Ignotus Afterburn,Arcaea Sound Team,170,1077,Tairitsu,Arcaea,3.12,BYD,9.7,9.9,./ImageDatas/Ignotus Afterburn.jpg.webp
+292,Red and Blue and Green,fn(ArcaeaSoundTeam),160,1194,Tairitsu,Arcaea,3.12,BYD,10,10.2,./ImageDatas/Red and Blue and Green.jpg.webp
+293,Singularity VVVIP,Arcaea Sound Team against. ETIA.,175,1114,Tairitsu,Binary Enfold,3.12,BYD,10,10.4,./ImageDatas/Singularity VVVIP.jpg.webp
+294,overdead.,fn,500,1503,Tairitsu,Memory Archive,3.12,BYD,10,10.5,./ImageDatas/overdead.jpg.webp
+295,MERLIN,REDALiCE,180,881,Hikari,Groove Coaster,3.12,BYD,9,9.4,./ImageDatas/MERLIN.jpg.webp
+296,OMAKENO Stroke,t+pazolite,240,931,Tairitsu,Groove Coaster,3.12,BYD,10,10.3,./ImageDatas/OMAKENO Stroke.jpg.webp
+297,Altair (feat. *spiLa*),kamome sano & you,170,830,Hikari,Arcaea,4,FTR,8,8.3,./ImageDatas/Altair (feat. _spiLa_).jpg.webp
+298,無機質世界に彩を,MisomyL,155,886,Hikari,Arcaea,4,FTR,9,9.4,./ImageDatas/Redraw the Colorless World.jpg.webp
+299,Trap Crow,Puru,80,1074,Tairitsu,Arcaea,4,FTR,9.7,9.9,./ImageDatas/Trap Crow.jpg.webp
+300,PUPA,モリモリあつし,202,1099,Tairitsu,Memory Archive,4,FTR,10,10.4,./ImageDatas/PUPA.jpg.webp
+301,Defection,TeddyLoid feat. DELTA,160,1141,Hikari,Final Verdict,4,FTR,9.7,9.8,./ImageDatas/Defection.jpg.webp
+302,"Infinite Strife,",BlackYooh vs. siromaru,198,1511,Tairitsu,Final Verdict,4,FTR,9.7,9.9,./ImageDatas/Infinite Strife.jpg.webp
+303,魔王,sasakure.UK × TJ.hangneil,280,1225,Hikari,Final Verdict,4,FTR,10,10,./ImageDatas/World Ender.jpg.webp
+304,Pentiment,Noting But Requiem with Museo,222,1345,Tairitsu,Final Verdict,4,FTR,10,10.4,./ImageDatas/Pentiment.jpg.webp
+305,Arcana Eden,Team Grimoire vs Sakuzyo,211,1792,Tairitsu,Final Verdict,4,FTR,10,10.5,./ImageDatas/Arcana Eden.jpg.webp
+306,Testify,Void (Mournfinale) feat. 星熊南巫,178,1766,,Final Verdict,4,FTR,10.7,10.9,./ImageDatas/Testify.jpg.webp
+307,Loveless Dress,かねこちはる,99,850,,Silent Answer,4,FTR,9.7,9.7,./ImageDatas/Loveless Dress.jpg.webp
+308,Last,onoken,175,831,,Silent Answer,4,FTR,9,9,./ImageDatas/Last.jpg.webp
+309,Callima Karma,t+pazolite vs Feryquitous,95,1222,,Silent Answer,4,FTR,9.7,9.8,./ImageDatas/Callima Karma.jpg.webp
+310,"Infinite Strife,",BlackYooh vs. siromaru,198,1633,Tairitsu,Final Verdict,4,BYD,10.7,10.9,./ImageDatas/Infinite Strife.jpg.webp
+311,魔王,sasakure.UK × TJ.hangneil,280,1661,Hikari,Final Verdict,4,BYD,11,11.1,./ImageDatas/World Ender.jpg.webp
+312,Pentiment,Noting But Requiem with Museo,222,1741,Tairitsu,Final Verdict,4,BYD,11,11.5,./ImageDatas/Pentiment.jpg.webp
+313,Arcana Eden,Team Grimoire vs sakuzyo vs Laur,211,2134,Tairitsu,Final Verdict,4,BYD,11,11.6,./ImageDatas/Arcana Eden.jpg.webp
+314,Testify,Void (Mournfinale) feat. 星熊南巫,178,2221,,Final Verdict,4,BYD,12,12,./ImageDatas/Testify.jpg.webp
+315,Last|Moment,onoken,175,888,,Final Verdict,4,BYD,9,9.6,./ImageDatas/Last_Moment.jpg.webp
+316,Last|Eternity,onoken,175,790,,Final Verdict,4,BYD,9.7,9.7,./ImageDatas/Last_Eternity.jpg.webp
+317,心,削除 (Violin：Katali),80,872,Hikari,O.N.G.E.K.I,4.01,FTR,9,9.6,./ImageDatas/Heart.jpg.webp
+318,Ai Drew,Feryquitous,175,1066,Tairitsu,O.N.G.E.K.I,4.01,FTR,9.7,9.8,./ImageDatas/Ai Drew.jpg.webp
+319,FLUFFY FLASH,Kobaryo,252,1329,Hikari,O.N.G.E.K.I,4.01,FTR,9.7,9.8,./ImageDatas/FLUFFY FLASH.jpg.webp
+320,"Good bye, Merry-Go-Round.",Yooh,185,1084,Tairitsu,O.N.G.E.K.I,4.01,FTR,10,10.6,"./ImageDatas/Good bye, Merry-Go-Round.jpg.webp"
+321,LAMIA,BlackY,199,1385,Tairitsu,O.N.G.E.K.I,4.01,FTR,11,11,./ImageDatas/LAMIA.jpg.webp
+322,Free Myself,lapix feat. mami,153,1132,Hikari,Memory Archive,4.01,FTR,10,10,./ImageDatas/Free Myself.jpg.webp
+323,cocoro*cosmetic,KOTONOHOUSE,144,1025,Hikari,Memory Archive,4.01,FTR,9,9.2,./ImageDatas/cocoro_cosmetic.jpg.webp
+324,Capella,ARForest,210,1159,Hikari,Memory Archive,4.01,FTR,10,10.2,./ImageDatas/Capella.jpg.webp
+325,だいあるのーと,七草くりむ,130,684,Hikari,Arcaea,4.01,FTR,8.7,8.8,./ImageDatas/Dialnote.jpg.webp
+326,FREEF4LL,YUKIYANAGI,170,1336,Tairitsu,Arcaea,4.01,BYD,9.7,9.8,./ImageDatas/FREEF4LL-b.jpg.webp
+327,Party Vinyl,モリモリあつし,132,946,Hikari,Crimson Solace,4.01,BYD,10,10.3,./ImageDatas/Party Vinyl-b.jpg.webp
+328,月に叢雲華に風,幽閉サテライト,160,740,Tairitsu,Extend Archive 2,4.02,FTR,8.7,8.7,./ImageDatas/Tsuki ni Murakumo.jpg.webp
+329,MANTIS (Arcaea Ultra-Bloodrush VIP),Akira Complex feat. Kiraku,135,1014,Tairitsu,Extend Archive 2,4.02,FTR,9,9.4,./ImageDatas/MANTIS (Arcaea Ultra-Bloodrush VIP).jpg.webp
+330,World Fragments III(radio edit),xi,200,1387,Hikari,Extend Archive 2,4.02,FTR,9.7,9.8,./ImageDatas/World Fragments III(radio edit).jpg.webp
+331,Astra walkthrough,paraoka,225,1191,Tairitsu,Extend Archive 2,4.02,FTR,9.7,9.9,./ImageDatas/Astra walkthrough.jpg.webp
+332,Chronicle,Lime,221,1264,Hikari,Extend Archive 2,4.02,FTR,10,10.5,./ImageDatas/Chronicle.jpg.webp
+333,NULL APOPHENIA,N2,177,1299,Tairitsu,Memory Archive,4.02,FTR,10.7,10.7,./ImageDatas/NULL APOPHENIA.jpg.webp
+334,Crimson Throne,Dimier√Lisb,210,1313,Tairitsu,Memory Archive,4.03,FTR,10,10.6,./ImageDatas/Crimson Throne.jpg.webp
+335,Manic Jeer,ルゼ,195,1286,Tairitsu,Memory Archive,4.03,FTR,10,10.6,./ImageDatas/Manic Jeer.jpg.webp
+336,緋色月下、狂咲ノ絶 (nayuta 2017 ver.),nayuta x 黒鳥(EastNewSound),150,1126,Tairitsu,Memory Archive,4.03,FTR,10,10.3,"./ImageDatas/Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.).jpg.webp"
+337,Let's Rock (Arcaea mix),ikaruga nex vs FALCHiON,210,1177,Tairitsu,Extend Archive 2,4.03,FTR,9.7,9.7,./ImageDatas/Let's Rock (Arcaea mix).jpg.webp
+338,CYCLES,Masayoshi Minoshima feat. 綾倉盟,135,695,Hikari,maimai,4.03,FTR,8.7,8.8,./ImageDatas/CYCLES.jpg
+339,MAXRAGE,EBIMAYO,222,1184,Tairitsu,maimai,4.03,FTR,9.7,9.9,./ImageDatas/MAXRAGE.jpg.webp
+340,[X],Blacklolita,180,1190,Tairitsu,maimai,4.03,FTR,10,10.6,./ImageDatas/[X].jpg.webp
+341,TEmPTaTiON,かねこちはる,160,1099,Hikari,maimai,4.03,FTR,10.7,10.9,./ImageDatas/TEmPTaTiON.jpg.webp
+342,PRIMITIVE LIGHTS,TAG,205,1524,Hikari,Memory Archive,4.03,FTR,10.7,10.8,./ImageDatas/PRIMITIVE LIGHTS.jpg.webp
+343,妖艶魔女 -trappola bewitching-,gmtn.,190,1086,Tairitsu,Vicious Labyrinth,4.03,BYD,10,10.6,./ImageDatas/trappola bewitching-b.jpg.webp
+344,Shades of Light in a Transcendent Realm,ak+q,170,1042,Hikari,Arcaea,4.03,BYD,9,9.1,./ImageDatas/Shades of Light in a Transcendent Realm-b.jpg.webp
+345,コスモポップファンクラブ,ナユタン星人,129,809,Hikari,CHUNITHM,4.04,FTR,8.7,8.8,./ImageDatas/Cosmo Pop Funclub.jpg.webp
+346,IMPACT,USAO feat. 光吉猛修,210,1231,Hikari,CHUNITHM,4.04,FTR,9,9.6,./ImageDatas/IMPACT.jpg.webp
+347,Genesis,Morringan feat.Lily,150,867,Tairitsu,CHUNITHM,4.04,FTR,9.7,9.8,./ImageDatas/Genesis_Chunithm.jpg.webp
+348,Trrrickstars!!,s-don vs 翡乃イスカ,155,1183,Tairitsu,CHUNITHM,4.04,FTR,10,10.1,./ImageDatas/Trrricksters!!.jpg.webp
+349,蜘蛛の糸,きくお×cosMo@暴走P feat.影縫英,180,1203,Tairitsu,CHUNITHM,4.04,FTR,10.7,10.8,./ImageDatas/Spider's Thread.jpg.webp
+350,Lost Emotion feat. nomico,Masayoshi Minoshima(ALR),172,1123,Hikari,Extend Archive 2,4.04,FTR,9,9.3,./ImageDatas/Lost Emotion feat. nomico.jpg.webp
+351,GIMMICK,Ms.Sill,143,733,Tairitsu,Extend Archive 2,4.04,FTR,9,9.5,./ImageDatas/GIMMICK.jpg
+352,The Survivor (Game Edit),Taishi,132,1100,Tairitsu,Memory Archive,4.04,FTR,9.7,9.9,./ImageDatas/The Survivor (Game Edit).jpg.webp
+353,New York Back Raise,saaa + kei_iwata + stuv + わかどり,160,1091,Tairitsu,Memory Archive,4.04,FTR,9.7,9.9,./ImageDatas/New York Back Raise.jpg.webp
+354,Galactic Love,La priere,145,813,Hikari,Memory Archive,4.04,FTR,9,9,./ImageDatas/Galactic Love.jpg.webp
+355,無法地点,La priere,148,838,Hikari,Extend Archive 2,4.04,FTR,9,9,./ImageDatas/Lawless Point.jpg.webp
+356,Lost in the Abyss,FELT,183,1179,Tairitsu,Memory Archive,4.04,FTR,9.7,9.7,./ImageDatas/Lost in the Abyss.jpg.webp
+357,ヒュブリスの頂に聳えるのは,qfeileadh feat.のあ,158,1196,Tairitsu,Extend Archive 2,4.04,FTR,9.7,9.8,./ImageDatas/Hybris (The one who shattered).jpg.webp
+358,To the Milky Way,黒魔,186,1392,Hikari,Memory Archive,4.04,FTR,10,10.4,./ImageDatas/To the Milky Way.jpg.webp
+359,Teriqma,owl*tree,128,954,Tairitsu,Memory Archive,4.04,BYD,9.7,9.7,./ImageDatas/Teriqma.jpg.webp
+360,IMPACT,USAO feat. 光吉猛修,210,1392,Hikari,CHUNITHM,4.04,BYD,10,10.4,./ImageDatas/IMPACT.jpg.webp
+361,INTERNET YAMERO,Aiobahn feat. KOTOKO,185,1222,Tairitsu,Memory Archive,4.05,FTR,10,9.9,./ImageDatas/INTERNET YAMERO.jpg.webp
+362,Bullet Waiting for Me (James Landino remix),Nikki Simmons,107,701,Hikari,Cytus II,4.05,FTR,8,8.1,./ImageDatas/Bullet Waiting for Me (James Landino remix).jpg.webp
+363,Devillic Sphere,3R2,160,1129,Tairitsu,Cytus II,4.05,FTR,9.7,9.9,./ImageDatas/Devillic Sphere.jpg.webp
+364,Lucid Traveler,Akira Complex vs 3R2,200,1341,Tairitsu,Cytus II,4.05,FTR,10,10.5,./ImageDatas/Lucid Traveler_FTR.jpg.webp
+365,CHAOS,AEsir,150,1369,Tairitsu,Cytus II,4.05,FTR,10.7,10.9,./ImageDatas/CHAOS.jpg.webp
+366,Used to be,KIVA,140,799,Hikari,Cytus II,4.05,FTR,9,9.2,./ImageDatas/Used to be.jpg.webp
+367,Ultimate taste,ぱらどっと,200,1405,Hikari,Extend Archive 2,4.06,FTR,9.7,9.9,./ImageDatas/Ultimate taste.jpg.webp
+368,syuten,"Apo11o""COLLAPSAR"" program ft. 大瀬良あい",96,592,Hikari,Cytus II,4.06,FTR,8,8.5,./ImageDatas/syūten.jpg.webp
+369,DRG,onoken,155,872,Hikari,Cytus II,4.06,FTR,9,9.4,./ImageDatas/DRG.jpg.webp
+370,99 Glooms,Sta,185,1294,Tairitsu,Cytus II,4.06,FTR,10,10.3,./ImageDatas/99 Glooms.jpg.webp
+371,II,Cytus,150,1051,Tairitsu,Cytus II,4.06,FTR,10.7,10.8,./ImageDatas/Ⅱ.jpg.webp
+372,Magnolia,M2U Vocal by Guriri,160,895,Hikari,Cytus II,4.06,FTR,10,10.2,./ImageDatas/Magnolia.jpg.webp
+373,SACRIFICE feat. ayame,Masayoshi Minoshima(ALR),180,958,Tairitsu,Memory Archive,4.07,FTR,9.7,9.7,./ImageDatas/SACRIFICE feat. ayame.jpg.webp
+374,RGB,MEMODEMO X AQUASINE,163,1131,Hikari,Extend Archive 2,4.07,FTR,9.7,9.8,./ImageDatas/RGB.jpg.webp
+375,WAIT FOR DAWN,U-ske feat. 棗いつき,188,861,Hikari,Lasting Eden,4.07,FTR,8.7,8.7,./ImageDatas/WAIT FOR DAWN.jpg.webp
+376,レイヴンズ・プライド,みーに feat. はらもりよしな,165,1030,Tairitsu,Lasting Eden,4.07,FTR,9,9.4,./ImageDatas/Raven's Pride.jpg.webp
+377,Rise of the World,cosMo@暴走P,212,1176,Hikari,Lasting Eden,4.07,FTR,10,10.5,./ImageDatas/Rise of the World.jpg.webp
+378,UNKNOWN LEVELS,Yuta Imai,165,1149,Tairitsu,Lasting Eden,4.07,FTR,10,10.6,./ImageDatas/UNKNOWN LEVELS.jpg.webp
+379,Abstruse Dilenmma,Ashrount vs. 打打だいず,216,1467,Hikari,Lasting Eden,4.07,FTR,11,11.3,./ImageDatas/Abstruse Dilemma.jpg.webp
+380,感情の摩天楼 ～Arr.Demetori,Demetori,178,1294,Tairitsu,Extend Archive 2,4.07,FTR,9.7,9.8,./ImageDatas/Kanjou no matenrou ～Arr.Demetori.jpg.webp
+381,彼方の夢へと,ii/night feat. 綺良雪,183,1102,,Memory Archive,4.07,FTR,9.7,9.8,./ImageDatas/To the Furthest Dream.jpg.webp
+382,Remind the Souls (Short Version),Nhato,130,945,Hikari,Arcaea,5,FTR,9,9.6,./ImageDatas/Remind the Souls (Short Version).jpg.webp
+383,Dynitikos,Prower,180,986,Tairitsu,Extend Archive 2,5,FTR,9,9.5,./ImageDatas/Dynitikos.jpg.webp
+384,雨神楽,荒谷サトル,105,1076,Hikari,Extend Archive 2,5,FTR,9.7,9.9,./ImageDatas/Amekagura.jpg.webp
+385,B.B.K.K.B.K.K.,nora2r,170,976,Tairitsu,Memory Archive,5,FTR,9.7,9.7,./ImageDatas/B.B.K.K.B.K.K..jpg
+386,Primeval Texture,くるぶっこちゃん,120,810,Tairitsu,Severed Eden,5,FTR,9,9,./ImageDatas/Primeval Texture.jpg.webp
+387,Technicolour,Maozon,175,1140,Hikari,Severed Eden,5,FTR,9.7,9.8,./ImageDatas/Technicolour.jpg.webp
+388,Logos,polysha feat. 高城みよ,189,1040,Tairitsu,Severed Eden,5,FTR,10,10.2,./ImageDatas/Logos.jpg.webp
+389,Ego Eimi,BlackY feat. Risa Yuzuki,178,1223,Tairitsu,Severed Eden,5,FTR,10,10.5,./ImageDatas/Ego Eimi.jpg.webp
+390,Arghena,Feryquitous vs Laur,185,1444,Tairitsu,Severed Eden,5,FTR,11,11.3,./ImageDatas/Arghena.jpg.webp
+391,FANTA5Y,Moon Jelly & YUKIYANAGI,170,965,Hikari,Extend Archive 2,5.01,FTR,9,9.4,./ImageDatas/FANTA5Y.jpg.webp
+392,Transient Space,"sleepless, Gardens, aspect",132,805,Tairitsu,Severed Eden,5.01,FTR,9,9.5,./ImageDatas/Transient Space.jpg.webp
+393,Nameless Passion,天束 feat.Sennzai,200,1223,Tairitsu,Severed Eden,5.01,FTR,9.7,9.8,./ImageDatas/Nameless Passion.jpg.webp
+394,TeraVolt,Katali,154,1008,Tairitsu,Severed Eden,5.01,FTR,10.7,10.8,./ImageDatas/TeraVolt.jpg.webp
+395,Stratoliner,C-Show,175,877,Tairitsu,WACCA,5.02,FTR,9,9.6,./ImageDatas/Stratoliner.jpg.webp
+396,Ouverture,USAO & DJ Genki feat. ルーン(CV:河瀬茉希),200,913,Tairitsu,WACCA,5.02,FTR,9.7,9.8,./ImageDatas/Ouvertüre.jpg.webp
+397,XTREME,USAO,205,1258,Tairitsu,WACCA,5.02,FTR,10,10.5,./ImageDatas/XTREME.jpg.webp
+398,eden,"”漆黒”の堕天使《Gram》♰Versus♰""聖刻""の熾天使《Gram》",246,1365,Tairitsu,WACCA,5.02,FTR,10,10.5,./ImageDatas/eden.jpg.webp
+399,Meta-Mysteria,DJ Noriken,205,1309,Hikari,WACCA,5.02,FTR,10.7,10.8,./ImageDatas/Meta-Mysteria.jpg.webp
+400,アローンアンドローン,Ponchi♪ feat.はぁち,100,970,Hikari,Extend Archive 2,5.02,FTR,9,9.6,./ImageDatas/Alone & Lorn.jpg.webp
+401,Wish Upon a Snow,打打だいず,218,1309,Hikari,Memory Archive,5.02,FTR,10,10.5,./ImageDatas/Wish Upon a Snow.jpg.webp
+402,患部で止まってすぐ溶ける ～狂気の優曇華院,ARM＋夕野ヨシミ(IOSYS) feat. Miko,200,1108,Hikari,Memory Archive,5.02,FTR,10,10.1,./ImageDatas/Kanbu de Tomatte Sugu Tokeru.jpg.webp
+403,felys final remix,onoken,180,1130,Tairitsu,Extend Archive 2,5.02,FTR,9,9.5,./ImageDatas/felys final remix.jpg.webp
+404,On And On!! Feat. Jenga,ETIA.,170,836,Hikari,Extend Archive 2,5.02,FTR,9,9.5,./ImageDatas/On And On!! feat. Jenga.jpg.webp
+405,LIVHT MY WΔY,かめりあ feat. STΔRLIVHT,190,954,Tairitsu,Memory Archive,5.02,FTR,9.7,9.8,./ImageDatas/LIVHT MY W_Δ_Y.jpg.webp
+406,蛍火の雪,Endorfin.,159,991,Hikari,Sunset Radiance,5.02,FTR,9.7,9.7,./ImageDatas/Hotarubi no Yuki.jpg.webp
+407,The Formula,Junk,144,957,Hikari,Arcaea,5.03,FTR,9,9.3,./ImageDatas/The Formula.jpg.webp
+408,Luna Rossa,r0y,174,920,Tairitsu,Memory Archive,5.03,FTR,9.7,9.7,./ImageDatas/Luna Rossa.jpg.webp
+409,inkar-usi,DIA,102,857,Hikari,Arcaea,5.03,BYD,9,9.4,./ImageDatas/inkar-usi-b.jpg.webp
+410,Oblivia,Saiph,180,1021,Hikari,Arcaea,5.03,BYD,9.7,9.7,./ImageDatas/Oblivia-b.jpg.webp
+411,Cybernecia Catharsis,Tanchiky,184,991,Tairitsu,Arcaea,5.03,BYD,9.7,9.8,./ImageDatas/Cybernecia Catharsis-b.jpg.webp
+412,Libertas,Zekk,184,1048,Hikari,Memory Archive,5.03,BYD,10,10.5,./ImageDatas/Libertas-b.jpg.webp
+413,Purple Verse,Hommarju,170,1202,Tairitsu,Arcaea,5.03,BYD,10,10.6,./ImageDatas/Purple Verse-b.jpg.webp
+414,Einherjar Joker,DJ Genki vs Gram,222,1857,Tairitsu,Memory Archive,5.03,BYD,10.7,10.9,./ImageDatas/Einherjar Joker-b.jpg.webp
+415,Vicious [ANTi] Heroism,Kobaryo,271,1772,Tairitsu,Absolute Reason,5.03,BYD,11,11.2,./ImageDatas/Vicious Heroism-b.jpg.webp
+416,Sayonara Hatsukoi,REDSHiFT,178,728,Hikari,Arcaea,5.04,ETR,8,8.5,./ImageDatas/Sayonara Hatsukoi.jpg.webp
+417,クロートーと星の観測者,しーけー,230,1031,Hikari,Arcaea,5.04,ETR,8.7,8.8,./ImageDatas/Clotho and the stargazer.jpg.webp
+418,Suomi,Aire,125,732,Hikari,Arcaea,5.04,ETR,8.7,8.9,./ImageDatas/Suomi.jpg.webp
+419,Jingle,DJ Noriken,170,848,Hikari,Arcaea,5.04,FTR,7.7,7.8,./ImageDatas/Jingle.jpg.webp
+420,Jingle,DJ Noriken,170,1047,Hikari,Arcaea,5.04,ETR,9,9.5,./ImageDatas/Jingle.jpg.webp
+421,Innocence,Powerless feat. Sennzai,190,1023,Hikari,Memory Archive,5.04,FTR,8,8.5,./ImageDatas/Innocence.jpg.webp
+422,Innocence,Powerless feat. Sennzai,190,1157,Hikari,Memory Archive,5.04,ETR,9.7,9.7,./ImageDatas/Innocence.jpg.webp
+423,IONOSTREAM,Tatsh,254,818,Tairitsu,Memory Archive,5.04,FTR,8.7,8.7,./ImageDatas/IONOSTREAM.jpg.webp
+424,IONOSTREAM,Tatsh,254,871,Tairitsu,Memory Archive,5.04,ETR,9.7,9.7,./ImageDatas/IONOSTREAM.jpg.webp
+425,Aleph-0,LeaF,400,919,Tairitsu,Extend Archive 2,5.04,FTR,10,10.5,./ImageDatas/Aleph-0.jpg.webp
+426,Masquerade Legion,Srav3R & DJ Noriken,175,1064,Tairitsu,Memory Archive,5.04,FTR,10,10,./ImageDatas/Masquerade Legion.jpg.webp
+427,狂恋ROMANCE,REDALiCE vs DJ Myosuke feat. DELUTAYA,205,1519,Tairitsu,Memory Archive,5.04,FTR,10.7,10.7,./ImageDatas/KYOREN ROMANCE.jpg.webp
+428,Qovat,owl*tree,122,1299,Tairitsu,Memory Archive,5.04,FTR,10,10.4,./ImageDatas/Qovat.jpg.webp
+429,HELLOHELL,暁Records,155,673,Tairitsu,World Extend 3,5.05,FTR,7,7.5,./ImageDatas/HELLOHELL.jpg.webp
+430,HELLOHELL,暁Records,155,770,Tairitsu,World Extend 3,5.05,ETR,9,9.3,./ImageDatas/HELLOHELL.jpg.webp
+431,〇、,Kolla & 熊子,145,708,Hikari,World Extend 3,5.05,FTR,9,9.5,./ImageDatas/〇、.jpg
+432,Awaken In Ruins,Supa7onyz,125,754,Tairitsu,World Extend 3,5.05,FTR,9.7,9.7,./ImageDatas/Awaken In Ruins.jpg.webp
+433,MORNINGLOOM,saaa,102,940,Hikari,World Extend 3,5.05,FTR,8.7,8.8,./ImageDatas/MORNINGLOOM.jpg.webp
+434,MORNINGLOOM,saaa,102,1035,Hikari,World Extend 3,5.05,ETR,9.7,9.8,./ImageDatas/MORNINGLOOM.jpg.webp
+435,Lethal Voltage,siqlo,190,1497,Tairitsu,World Extend 3,5.05,FTR,10,10.4,./ImageDatas/Lethal Voltage.jpg.webp
+436,MIRINAE,TAK × Zekk,180,1277,Hikari,Memory Archive,5.05,FTR,10,10.4,./ImageDatas/MIRINAE.jpg.webp
+437,ultradiaxon-N3,nitro(lowiro),150,1228,Tairitsu,Memory Archive,5.05,FTR,10,10.3,./ImageDatas/ultradiaxon-N3.jpg.webp
+438,Leave All Behind,rider,150,828,Tairitsu,World Extend 3,5.06,FTR,9,9.2,./ImageDatas/Leave All Behind.jpg.webp
+439,Distorted Fate,Sakuzyo,150,1172,Tairitsu,Memory Archive,5.06,FTR,9,9.6,./ImageDatas/Distorted Fate.jpg.webp
+440,Distorted Fate,Sakuzyo,150,1402,Tairitsu,Memory Archive,5.06,ETR,10.7,10.8,./ImageDatas/Distorted Fate.jpg.webp
+441,Floating World,baker feat. botan,174,1047,Hikari,Memory Archive,5.06,FTR,9,9.3,./ImageDatas/Floating World.jpg.webp
+442,Chromafill,ていぬ,179,1130,Hikari,Memory Archive,5.06,FTR,10,10,./ImageDatas/Chromafill.jpg.webp
+443,Desive,MisomyL,230,1273,Hikari,Memory Archive,5.06,FTR,9.7,9.9,./ImageDatas/Desive.jpg.webp
+444,Desive,MisomyL,230,1340,Hikari,Memory Archive,5.06,ETR,10.7,10.8,./ImageDatas/Desive.jpg.webp
+445,エピクロスの虹はもう見えない,SYNC.ART'S feat.Misato,155,783,Hikari,Arcaea,5.07,FTR,7,7.5,./ImageDatas/Epicurus.webp
+446,エピクロスの虹はもう見えない,SYNC.ART'S feat.Misato,155,884,Hikari,Arcaea,5.07,ETR,8.7,8.8,./ImageDatas/Epicurus.webp
+447,黄昏の協奏曲,Scarlette,194,803,Tairitsu,Memory Archive,5.07,FTR,9,9.5,./ImageDatas/Tasogare.webp
+448,黄昏の協奏曲,Scarlette,194,962,Tairitsu,Memory Archive,5.07,ETR,10,10.5,./ImageDatas/Tasogare.webp
+449,Old School Salvage,DJ SHARPNEL,205,1316,Tairitsu,World Extend 3,5.07,FTR,9.7,9.8,./ImageDatas/Old_school_salvage.webp
+450,Beautiful Dreamer,M-Project,188,1139,Hikari,Memory Archive,5.07,FTR,9.7,9.9,./ImageDatas/Beautiful_dreamer.webp
+451,Back to Basics,m1dy,420,1544,Tairitsu,Memory Archive,5.07,FTR,10,10.6,./ImageDatas/Back_to_basics.webp
+452,STARGATE EXTREME,KARUT,150,724,Tairitsu,Memory Archive,5.08,FTR,9,9.3,./ImageDatas/STARGATE EXTREME.jpg.webp
+453,STARGATE EXTREME,KARUT,150,915,Tairitsu,Memory Archive,5.08,ETR,9.7,9.9,./ImageDatas/STARGATE EXTREME.jpg.webp
+454,"Sign of ""10.5km""",渡部恭久,160,735,Hikari,Groove Coaster,5.08,FTR,9,9.2,./ImageDatas/Sign of ''10.5km''.jpg.webp
+455,10pt8ion,Lite Show Magic,185,906,Tairitsu,Groove Coaster,5.08,FTR,9.7,9.8,./ImageDatas/10pt8ion.jpg.webp
+456,10pt8ion,Lite Show Magic,185,1087,Tairitsu,Groove Coaster,5.08,ETR,10,10.5,./ImageDatas/10pt8ion.jpg.webp
+457,Black MInD,COSIO,192,1274,Tairitsu,Groove Coaster,5.08,FTR,10.7,10.8,./ImageDatas/Black MInD.jpg.webp
+458,HYPER VISION,VOLTA,155,1040,Tairitsu,Memory Archive,5.08,FTR,9.7,9.8,./ImageDatas/HYPER VISION.jpg.webp
+459,ディストーション・ニンゲン,DJ Myosuke & KAJI,200,1317,Tairitsu,World Extend 3,5.09,FTR,9.7,9.9,./ImageDatas/Distortion Human.jpg.webp
+460,shrink,Shohei Tsuchiya(ZUNTATA),180,939,Hikari,Memory Archive,5.09,FTR,9.7,9.8,./ImageDatas/shrink.jpg.webp
+461,In Vain,ryhki,165,1111,Tairitsu,Absolute Nihil,5.09,FTR,9,9.5,./ImageDatas/In Vain.jpg.webp
+462,Hypnotize,rejection,160,993,Tairitsu,Absolute Nihil,5.09,FTR,8.7,8.9,./ImageDatas/Hypnotize.jpg.webp
+463,Hypnotize,rejection,160,1164,Tairitsu,Absolute Nihil,5.09,ETR,9.7,9.9,./ImageDatas/Hypnotize.jpg.webp
+464,Ashen 6oundary,YUKIYANAGI,172,1183,Tairitsu,Absolute Nihil,5.09,FTR,9.7,9.9,./ImageDatas/Ashen 6oundary.jpg.webp
+465,Judgement,Tatsunoshin,200,1432,Tairitsu,Absolute Nihil,5.09,FTR,10,10.5,./ImageDatas/Judgement.jpg.webp
+466,ALTER EGO,Yuta Imai vs Qlarabelle,195,1466,Tairitsu,Absolute Nihil,5.09,FTR,10,10.5,./ImageDatas/ALTER EGO.jpg.webp
+467,ALTER EGO,Yuta Imai vs Qlarabelle,195,1644,Tairitsu,Absolute Nihil,5.09,ETR,11,11.3,./ImageDatas/ALTER EGO.jpg.webp
+468,epitaxy,Camellia,183,1177,Hikari,World Extend 3,5.1,FTR,8,8.6,./ImageDatas/epitaxy.jpg.webp
+469,epitaxy,Camellia,183,1410,Hikari,Rotaeno,5.1,ETR,9,9.6,./ImageDatas/epitaxy.jpg.webp
+470,Waltz for Lorelei,Sobrem & 庭師,220,916,Hikari,Rotaeno,5.1,FTR,8.7,8.8,./ImageDatas/Waltz for Lorelei.jpg.webp
+471,Waltz for Lorelei,Sobrem & 庭師,220,999,Hikari,Rotaeno,5.1,ETR,9.7,9.8,./ImageDatas/Waltz for Lorelei.jpg.webp
+472,Dual Doom Deathmatch,Kobaryo vs HyuN,222,1094,Tairitsu,Rotaeno,5.1,FTR,8.7,8.9,./ImageDatas/Dual Doom Deathmatch.jpg.webp
+473,Dual Doom Deathmatch,Kobaryo vs HyuN,222,1292,Tairitsu,Rotaeno,5.1,ETR,10,10.3,./ImageDatas/Dual Doom Deathmatch.jpg.webp
+474,Inverted World,ARForest,180,940,Hikari,Rotaeno,5.1,FTR,9,9.5,./ImageDatas/Inverted World.jpg.webp
+475,Inverted World,ARForest,180,1065,Hikari,Rotaeno,5.1,ETR,10.7,10.7,./ImageDatas/Inverted World.jpg.webp
+476,MVURBD,ETIA.,175,1497,Tairitsu,Rotaeno,5.1,FTR,10,10.6,./ImageDatas/MVURBD.jpg.webp
+477,Vulcanus,Team Grimoire vs Aoi,212,1542,Hikari,Rotaeno,5.1,FTR,10.7,10.9,./ImageDatas/Vulcānus.jpg.webp
+478,Rain of Conflict in a Radiant Abyss,ak+q,195,1164,Tairitsu,Memory Archive,5.1,FTR,9,9.5,./ImageDatas/Rain of Conflict in a Radiant Abyss.jpg.webp
+479,Rain of Conflict in a Radiant Abyss,ak+q,195,1247,Tairitsu,Memory Archive,5.1,ETR,10,10.5,./ImageDatas/Rain of Conflict in a Radiant Abyss.jpg.webp
+480,Saint or Sinner,crayvxn,164,906,Tairitsu,Adverse Prelude,5.1,FTR,8.7,8.8,./ImageDatas/Saint or Sinner.jpg.webp
+481,Hailstone,Kazki Misora,180,1002,Hikari,World Extend 3,5.1,FTR,9.7,9.7,./ImageDatas/Hailstone.jpg.webp
+482,フレテミタイ,みきとP,155,763,Hikari,World Extend 3,5.1,FTR,8,8.4,./ImageDatas/FURETE-MITAI.jpg.webp
+483,フレテミタイ,みきとP,155,841,Hikari,World Extend 3,5.1,ETR,9,9.4,./ImageDatas/FURETE-MITAI.jpg.webp
+484,幻想のサテライト,豚乙女,230,992,Tairitsu,Memory Archive,5.1,FTR,8.7,8.7,./ImageDatas/Gensou no Satellite.jpg.webp
+485,幻想のサテライト,豚乙女,230,1139,Tairitsu,Memory Archive,5.1,ETR,10,10.1,./ImageDatas/Gensou no Satellite.jpg.webp
+486,プレヤ,qfeileadh&レゾナンスもえこ,132,591,Hikari,World Extend 3,5.1,FTR,8,8.2,./ImageDatas/Prayer.jpg.webp
+487,プレヤ,qfeileadh&レゾナンスもえこ,132,714,Hikari,World Extend 3,5.1,ETR,9,9.1,./ImageDatas/Prayer.jpg.webp
+488,Crimson Quartz,DiGiTAL WiNG with 空音,145,861,Tairitsu,Memory Archive,5.1,FTR,8.7,8.8,./ImageDatas/Crimson Quartz.jpg.webp
+489,Crimson Quartz,DiGiTAL WiNG with 空音,145,1200,Tairitsu,Memory Archive,5.1,ETR,9.7,9.8,./ImageDatas/Crimson Quartz.jpg.webp
+490,Third Sun,Ash Astral,225,811,Tairitsu,Memory Archive,5.1,FTR,9,9.4,./ImageDatas/Third Sun.jpg.webp
+491,Third Sun,Ash Astral,225,1043,Tairitsu,Memory Archive,5.1,ETR,10,10,./ImageDatas/Third Sun.jpg.webp
+492,Spirit of the Dauntless,KO3 & Relect,180,1207,Tairitsu,Memory Archive,5.1,FTR,10,10.5,./ImageDatas/Spirit of the Dauntless.jpg.webp
+493,Dies irae,お月さま交響曲,172,1052,Tairitsu,Memory Archive,5.1,FTR,9,9.5,./ImageDatas/Dies irae.jpg.webp
+494,Dies irae,お月さま交響曲,172,1263,Tairitsu,Memory Archive,5.1,ETR,10,10.6,./ImageDatas/Dies irae.jpg.webp
+495,astral.exe,Synzak & Laxeno57,174,1059,Hikari,World Extend 3,6,FTR,9,9.5,./ImageDatas/astral.exe.jpg.webp
+496,LiftOff,MAYA AKAI,137,660,Tairitsu,O.N.G.E.K.I,6,FTR,8,8.2,./ImageDatas/LiftOff.jpg.webp
+497,LiftOff,MAYA AKAI,137,988,Tairitsu,O.N.G.E.K.I,6,ETR,9.7,9.8,./ImageDatas/LiftOff.jpg.webp
+498,SUPER AMBULANCE,AJURIKA,200,1371,Hikari,O.N.G.E.K.I,6,FTR,10,10.3,./ImageDatas/SUPER AMBULANCE.jpg.webp
+499,Don’t Fight The Music,黒魔,200,1043,Tairitsu,O.N.G.E.K.I,6,FTR,9,9.3,./ImageDatas/Don't Fight The Music.jpg.webp
+500,Don’t Fight The Music,黒魔,200,1385,Tairitsu,O.N.G.E.K.I,6,ETR,10.7,10.7,./ImageDatas/Don't Fight The Music.jpg.webp
+501,And Revive The Melody,黒魔,220,1710,Tairitsu,O.N.G.E.K.I,6,FTR,10.7,10.9,./ImageDatas/And Revive The Melody.jpg.webp
+502,Swan Song,Void (Mournfinale),148,1225,Lephon,Lucent Historia,6,FTR,9.7,9.9,./ImageDatas/Swan Song.jpg.webp
+503,Renegade,sky_delta,186,994,Lephon,Lucent Historia,6,FTR,9,9.6,./ImageDatas/Renegade.jpg.webp
+504,Rays of Remnant,May × Felysrator,200,982,Lephon,Lucent Historia,6,FTR,9.7,9.7,./ImageDatas/Rays of Remnant.jpg.webp
+505,Breach of Faith,Supire feat.eili,172,1373,Lephon,Lucent Historia,6,FTR,10,10.3,./ImageDatas/Breach of Faith.jpg.webp
+506,Lament Rain,Ashrount vs. 打打だいず,200,1380,Lephon,Lucent Historia,6,FTR,10,10.6,./ImageDatas/Lament Rain.jpg.webp
+507,Designant.,Designant,200,1768,Lephon,Lucent Historia,6,FTR,10.7,10.9,./ImageDatas/Designant..jpg.webp
+508,Astral Quantization,Dj Grimoire,185,1388,Lephon,Lucent Historia,6,FTR,10,10.6,./ImageDatas/Astral Quantization.jpg.webp
+509,Renegade,sky_delta,186,1165,Lephon,Lucent Historia,6,BYD,10,10.2,./ImageDatas/Renegade.jpg.webp
+510,Rays of Remnant,May × Felysrator,200,1118,Lephon,Lucent Historia,6,BYD,10,10.4,./ImageDatas/Rays of Remnant.jpg.webp
+511,Breach of Faith,Supire feat.eili,172,1448,Lephon,Lucent Historia,6,BYD,10.7,10.9,./ImageDatas/Breach of Faith.jpg.webp
+512,Lament Rain,Ashrount vs. 打打だいず,200,1637,Lephon,Lucent Historia,6,BYD,11,11.4,./ImageDatas/Lament Rain.jpg.webp
+513,Designant.,Designant,200,2184,Lephon,Lucent Historia,6,BYD,11.7,11.9,./ImageDatas/Designant..jpg.webp
+514,Ignition,パソコン音楽クラブ,160,994,Hikari,CHUNITHM,6.01,FTR,9.7,9.7,./ImageDatas/Ignition.jpg.webp
+515,BlazinG AIR,kanone,150,757,Hikari,CHUNITHM,6.01,FTR,8.7,8.7,./ImageDatas/BlazinG AIR.jpg.webp
+516,BlazinG AIR,kanone,150,1129,Hikari,CHUNITHM,6.01,ETR,10,10.1,./ImageDatas/BlazinG AIR.jpg.webp
+517,8-EM,Sampling Masters AYA,168,1081,Tairitsu,CHUNITHM,6.01,FTR,9,9,./ImageDatas/8-EM.jpg.webp
+518,8-EM,Sampling Masters AYA,168,1201,Tairitsu,CHUNITHM,6.01,ETR,10,10.3,./ImageDatas/8-EM.jpg.webp
+519,DA'AT -The First Seeker of Souls-,水野健冶 VS 大国奏音,222,1500,Tairitsu,CHUNITHM,6.01,FTR,10.7,10.9,./ImageDatas/DA'AT -The First Seeker of Souls-.jpg.webp
+520,BREak! BREak! BREak!,HiTECH NINJA vs Cranky,165,864,Tairitsu,maimai,6.02,FTR,8.7,8.8,./ImageDatas/BREaK! BREaK! BREaK!.jpg.webp
+521,BREak! BREak! BREak!,HiTECH NINJA vs Cranky,165,1251,Tairitsu,maimai,6.02,ETR,10,10.3,./ImageDatas/BREaK! BREaK! BREaK!.jpg.webp
+522,Straight into the lights,Cosmograph,90,1226,Tairitsu,maimai,6.02,FTR,9,9.5,./ImageDatas/Straight into the lights.jpg.webp
+523,Straight into the lights,Cosmograph,90,1280,Tairitsu,maimai,6.02,ETR,10,10.5,./ImageDatas/Straight into the lights.jpg.webp
+524,ViRTUS,Hiro,225,1222,Hikari,maimai,6.02,FTR,9.7,9.9,./ImageDatas/ViRTUS.jpg.webp
+525,ViRTUS,Hiro,225,1341,Hikari,maimai,6.02,ETR,10.7,10.9,./ImageDatas/ViRTUS.jpg.webp
+526,ヨミビトシラズ,Limonene (サノカモメ+月島春果),188,1075,Hikari,maimai,6.02,FTR,9.7,9.8,./ImageDatas/yomibito_shirazu.jpg.webp
+527,Aether Crest: Astral,void (Mournfinale) × 水野健冶,180,1508,Hikari,CHUNITHM,6.02.6,FTR,10,10.6,./ImageDatas/Aether Crast_Astral.png.webp
+528,Aether Crest: Astral,void (Mournfinale) × 水野健冶,180,1941,Hikari,CHUNITHM,6.02.6,ETR,11,11.5,./ImageDatas/Aether Crast_Astral.png.webp

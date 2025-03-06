@@ -1,0 +1,11 @@
+{
+    "VSPattern": {
+        "0": "ScoreBattle 1vs1",
+        "1": "EXScoreBattle 1vs1",
+        "2": "ScoreBattle 2vs2"
+    },
+    "Button_IDs": {
+        "BattleSelect_message_id": "",
+        "Score_Analysis_button_id": ""
+    }
+}
